@@ -9,11 +9,11 @@ For instructions on training nuclear segementaion models, see [Training_Instruct
 For instructions on evaluating the clinical robustness of nuclear segmentation models see [Evaluation_Instructions.ipynb](Evaluation_Instructions.ipynb) (NEEDS UPDATING).
 
 ### Large Files
-For pretrained U-Net models: https://drive.google.com/drive/folders/1Oo6HzRdfBAMPjB8rcH1dfBoWzg1meTOC?usp=drive_link.
+Download pretrained U-Net models: https://drive.google.com/drive/folders/1Oo6HzRdfBAMPjB8rcH1dfBoWzg1meTOC?usp=drive_link.
 
-For pretrained HoVer-Net models: https://drive.google.com/drive/folders/1qlUyAaSwHVLf9iO8C1q4QAZ9rZpQWRgk?usp=drive_link.
+Download pretrained HoVer-Net models: https://drive.google.com/drive/folders/1qlUyAaSwHVLf9iO8C1q4QAZ9rZpQWRgk?usp=drive_link.
 
-The dataset used in our experiments: https://drive.google.com/drive/folders/1e_dDLSmRFSwIyIBMFs9-hfQXjAiLUokF?usp=drive_link.
+Download the CoNSeP dataset, extracted in tiles as used in our experiments: https://drive.google.com/drive/folders/1e_dDLSmRFSwIyIBMFs9-hfQXjAiLUokF?usp=drive_link.
 
 ### Acknowledgements
 
