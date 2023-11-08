@@ -1,7 +1,5 @@
 # REET2.0
-REET https://github.com/alexjfoote/reetoolbox.git extended to nuclear segmentation models.
-
-
+REET2.0 is the Robustness Evaulutation and Enhanchement Toolbox (https://github.com/alexjfoote/reetoolbox.git) extended to include nuclear semantic segmentation models and nuclear instance segmentation models.
 
 For pretrained U-Net models: https://drive.google.com/drive/folders/1Oo6HzRdfBAMPjB8rcH1dfBoWzg1meTOC?usp=drive_link
 
