@@ -9,8 +9,74 @@
 /segmentation/output/
 
 
+
+
 .DS_Store
 
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Linux system files
+.*~
+
+# JetBrains IDEs
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# Python byte-compiled files
+*.pyc
+__pycache__/
+
+# C# and Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+
+# Build outputs
+/dist/
+/out/
+/build/
+/target/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Environment configuration files
+.env
+
+# Certificate files
+*.pem
+*.key
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Archives
+*.zip
+*.tar.gz
+
+# Auto-generated documentation
+/doc/api/
+/doc/build/
+
+# Credential files
+*.keystore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
