@@ -9,9 +9,19 @@ For instructions on training nuclear segementaion models, see [Training_Instruct
 For instructions on evaluating the clinical robustness of nuclear segmentation models see [Evaluation_Instructions.ipynb](Evaluation_Instructions.ipynb) (NEEDS UPDATING).
 
 ### Large Files
-For pretrained U-Net models: https://drive.google.com/drive/folders/1Oo6HzRdfBAMPjB8rcH1dfBoWzg1meTOC?usp=drive_link
+For pretrained U-Net models: https://drive.google.com/drive/folders/1Oo6HzRdfBAMPjB8rcH1dfBoWzg1meTOC?usp=drive_link.
 
-For pretrained HoVer-Net models: https://drive.google.com/drive/folders/1qlUyAaSwHVLf9iO8C1q4QAZ9rZpQWRgk?usp=drive_link
+For pretrained HoVer-Net models: https://drive.google.com/drive/folders/1qlUyAaSwHVLf9iO8C1q4QAZ9rZpQWRgk?usp=drive_link.
 
-The dataset used in our experiments: https://drive.google.com/drive/folders/1e_dDLSmRFSwIyIBMFs9-hfQXjAiLUokF?usp=drive_link
+The dataset used in our experiments: https://drive.google.com/drive/folders/1e_dDLSmRFSwIyIBMFs9-hfQXjAiLUokF?usp=drive_link.
+
+### Acknowledgements
+
+This work builds off REET https://github.com/alexjfoote/reetoolbox.git.
+
+The HoVer-Net model and much of the training and evaluating code for instance segmentation models comes from https://github.com/vqdang/hover_net.
+
+U-Net:
+
+
 
