@@ -17,11 +17,11 @@ The dataset used in our experiments: https://drive.google.com/drive/folders/1e_d
 
 ### Acknowledgements
 
-This work builds off REET https://github.com/alexjfoote/reetoolbox.git.
+This work builds off REET: https://github.com/alexjfoote/reetoolbox.git.
 
-The HoVer-Net model and much of the training and evaluating code for instance segmentation models comes from https://github.com/vqdang/hover_net.
+The HoVer-Net model and much of the training and evaluating code for instance segmentation models comes from: https://github.com/vqdang/hover_net.
 
-U-Net:
+The U-Net model was taken from: https://github.com/milesial/Pytorch-UNet.
 
 
 
