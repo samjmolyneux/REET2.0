@@ -1,12 +1,12 @@
 #Data directories
-/Users/sammolyneux/REET2.0/Consep_patches_540x540/train/540x540_164x164/
-/Users/sammolyneux/REET2.0/Consep_patches_540x540/valid/540x540_164x164/
+/Consep_patches_540x540/train/540x540_164x164/
+/valid/540x540_164x164/
 
 #Saved Models
-/Users/sammolyneux/REET2.0/nuc_inst_segmentation/output/
-/Users/sammolyneux/REET2.0/reetoolbox/Tutorials/Data/
-/Users/sammolyneux/REET2.0/reetoolbox/Tutorials/Models/
-/Users/sammolyneux/REET2.0/segmentation/output/
+/nuc_inst_segmentation/output/
+/reetoolbox/Tutorials/Data/
+/reetoolbox/Tutorials/Models/
+/segmentation/output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
