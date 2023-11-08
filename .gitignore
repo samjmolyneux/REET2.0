@@ -1,6 +1,6 @@
 #Data directories
 /Consep_patches_540x540/train/540x540_164x164/
-/valid/540x540_164x164/
+/Consep_patches_540x540/valid/540x540_164x164/
 
 #Saved Models
 /nuc_inst_segmentation/output/
